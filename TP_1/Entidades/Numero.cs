@@ -33,23 +33,30 @@ namespace Entidades
             string retorno = string.Empty;
             string mensaje = string.Empty;
 
-            if (binario != "" && (object)binario != null && binario != "Valor Inválido" && binario != "Numero Decimal")
+            if (binario == "Numero Decimal")
             {
-
-                foreach (char c in binario)
-                    if (c != '0' && c != '1')
-                        return "Numero Decimal";
-
-                for (i = 1; i <= binario.Length; i++)
-                {
-                    entero += int.Parse(binario[i - 1].ToString()) * (int)Math.Pow(2, binario.Length - i);
-                }
-                retorno = entero.ToString();
+                binario = "";
             }
             else
             {
-                mensaje = "Valor Inválido";
-                retorno = mensaje;
+                if (binario != "" && (object)binario != null && binario != "Valor Inválido")
+                {
+
+                    foreach (char c in binario)
+                        if (c != '0' && c != '1')
+                            return "Numero Decimal";
+
+                    for (i = 1; i <= binario.Length; i++)
+                    {
+                        entero += int.Parse(binario[i - 1].ToString()) * (int)Math.Pow(2, binario.Length - i);
+                    }
+                    retorno = entero.ToString();
+                }
+                else
+                {
+                    mensaje = "Valor Inválido";
+                    retorno = mensaje;
+                }
             }
 
             return retorno;
@@ -60,17 +67,16 @@ namespace Entidades
             int conversion;
             string retorno = string.Empty;
 
-            if (int.TryParse(numero, out conversion))
-            {
-                while (conversion > 0)
-                {
-                    retorno = (conversion % 2).ToString() + retorno;
-                    conversion = conversion / 2;
-                }
-            }
-            else
-                retorno = "Valor Inválido";
-
+                    if (int.TryParse(numero, out conversion))
+                    {
+                        while (conversion > 0)
+                        {
+                            retorno = (conversion % 2).ToString() + retorno;
+                            conversion = conversion / 2;
+                        }
+                    }
+                    else
+                        retorno = "Valor Inválido";
 
             return retorno;
         }
