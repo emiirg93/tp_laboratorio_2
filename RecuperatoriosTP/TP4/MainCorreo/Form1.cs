@@ -109,5 +109,15 @@ namespace MainCorreo
             this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)correo);
         }
 
+        private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)correo);
+        }
+
+        private void entregadosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
+        }
+
     }
 }
