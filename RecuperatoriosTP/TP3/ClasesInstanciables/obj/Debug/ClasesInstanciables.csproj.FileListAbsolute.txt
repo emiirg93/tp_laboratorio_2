@@ -1,0 +1,11 @@
+C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
