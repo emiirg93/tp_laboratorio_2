@@ -21,7 +21,7 @@ namespace ClasesAbstractas
 
         protected virtual string MostrarDatos()
         {
-            return base.ToString() + "\n\nLegajo Numero : " + this.legajo.ToString();
+            return base.ToString() + "\nLegajo Numero : " + this.legajo.ToString();
         }
 
         protected abstract string ParticiparEnClase();

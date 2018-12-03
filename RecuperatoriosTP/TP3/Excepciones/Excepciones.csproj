@@ -42,7 +42,7 @@
     <Compile Include="AlumnoRepetido.cs" />
     <Compile Include="Archivos.cs" />
     <Compile Include="DniInvalido.cs" />
-    <Compile Include="ExcepcionNacionalidad.cs" />
+    <Compile Include="NacionalidadInvalidaException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SinProfesor.cs" />
   </ItemGroup>

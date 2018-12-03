@@ -44,16 +44,18 @@ namespace ClasesInstanciables
 
         protected override string ParticiparEnClase()
         {
-            return "Toma Clases de : " + this.claseQueToma;
+            return "Toma Clases de : " + this.claseQueToma+"\n<-------------------------------------------------------------->\n";
+
         }
 
         protected override string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
-            
+
+            sb.AppendLine(this.ParticiparEnClase());
             sb.AppendLine(base.MostrarDatos());
             sb.AppendLine("Estado De Cuenta : " + this.estadoCuenta);
-            sb.AppendLine(this.ParticiparEnClase());
+            
 
             return sb.ToString();  
         }

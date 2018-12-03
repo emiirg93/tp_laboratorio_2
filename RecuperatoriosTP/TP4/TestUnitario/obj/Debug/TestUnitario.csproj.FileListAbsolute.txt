@@ -5,3 +5,10 @@ C:\Users\Emiliano\Desktop\TP4\TestUnitario\bin\Debug\Entidades.dll
 C:\Users\Emiliano\Desktop\TP4\TestUnitario\bin\Debug\Entidades.pdb
 C:\Users\Emiliano\Desktop\TP4\TestUnitario\obj\Debug\TestUnitario.dll
 C:\Users\Emiliano\Desktop\TP4\TestUnitario\obj\Debug\TestUnitario.pdb
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP4\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP4\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP4\TestUnitario\bin\Debug\Entidades.dll
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP4\TestUnitario\bin\Debug\Entidades.pdb
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP4\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP4\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP4\TestUnitario\obj\Debug\TestUnitario.pdb

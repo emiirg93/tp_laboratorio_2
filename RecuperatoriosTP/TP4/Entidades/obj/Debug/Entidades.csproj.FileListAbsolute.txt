@@ -4,3 +4,8 @@ C:\Users\Emiliano\Desktop\TP4\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Emiliano\Desktop\TP4\Entidades\obj\Debug\Entidades.dll
 C:\Users\Emiliano\Desktop\TP4\Entidades\obj\Debug\Entidades.pdb
 C:\Users\Emiliano\Desktop\TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.pdb

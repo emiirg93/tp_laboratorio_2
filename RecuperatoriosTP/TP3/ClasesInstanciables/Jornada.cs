@@ -96,7 +96,7 @@ namespace ClasesInstanciables
         {
 
             StringBuilder s = new StringBuilder();
-
+            s.AppendLine("JORNADA:");
             s.AppendLine("Clase de " + this.clase.ToString() + " por " + this.instructor.ToString());
             s.AppendLine("ALUMNOS: \r\n");
 

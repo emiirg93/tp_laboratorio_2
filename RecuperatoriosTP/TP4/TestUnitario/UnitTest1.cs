@@ -20,8 +20,8 @@ namespace TestUnitario
         public void TestTrackigIDRepetido()
         {
             Correo nuevo = new Correo();
-            Paquete p1 = new Paquete("Repetido", "125");
-            Paquete p2 = new Paquete("Repetido", "123");
+            Paquete p1 = new Paquete("Repetido", "526");
+            Paquete p2 = new Paquete("Repetido2", "526");
 
             nuevo += p1;
 
@@ -35,7 +35,6 @@ namespace TestUnitario
                 return;
             }
 
-            Assert.Fail("Sin excepción trackingID repetido: {0}.",p2.TrackingID);
         }
 
     }

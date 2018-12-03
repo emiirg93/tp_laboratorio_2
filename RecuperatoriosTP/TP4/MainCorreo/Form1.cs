@@ -35,13 +35,13 @@ namespace MainCorreo
             {
                 switch (p.Estado)
                 {
-                    case EEstado.Ingresado:
+                    case Paquete.EEstado.Ingresado:
                         this.lstEstadoIngresado.Items.Add(p);
                         break;
-                    case EEstado.EnViaje:
+                    case Paquete.EEstado.EnViaje:
                         this.lstEstadoEnViaje.Items.Add(p);
                         break;
-                    case EEstado.Entregado:
+                    case Paquete.EEstado.Entregado:
                         this.lstEstadoEntregado.Items.Add(p);
                         break;
 

@@ -133,7 +133,7 @@ namespace ClasesAbstractas
             }
             else
             {
-                throw new NacionalidadInvalidaException("El DNI Es Invalido.");
+                throw new DniInvalidoException("El DNI Es Invalido.");
             }
         }
 
@@ -143,7 +143,6 @@ namespace ClasesAbstractas
 
             sb.AppendLine("Nombre Completo : " + this.apellido+" "+ this.nombre);
             sb.AppendLine("Nacionalidad : " + this.nacionalidad);
-            sb.AppendLine("DNI : " + this.dni);
 
             return sb.ToString();
         }

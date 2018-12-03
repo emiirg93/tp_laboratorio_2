@@ -46,7 +46,7 @@ namespace ClasesInstanciables
             return sb.ToString(); ;
         }
 
-        private void randomClases()
+        private void _randomClases()
         {
             for (int i = 0; i < 2; i++)
             {
@@ -85,7 +85,7 @@ namespace ClasesInstanciables
             : base(id, nombre, apellido, dni, nacionalidad)
         {
             this.clasesDelDia = new Queue<Universidad.EClases>();
-            this.randomClases();
+            this._randomClases();
         }
 
         public override string ToString()

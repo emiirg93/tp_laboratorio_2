@@ -7,17 +7,28 @@ namespace Excepciones
 {
     public class DniInvalidoException : Exception
     {
-            public DniInvalidoException()
-                : base("Formato De DNI Invalido.")
-            {
+        private string messege;
 
-            }
+        public DniInvalidoException(string mensaje, Exception e)
+            : base(mensaje, e)
+        {
+            this.messege = mensaje;
+        }
+        public DniInvalidoException(string mensaje)
+            : this(mensaje, null)
+        {
 
-            public DniInvalidoException(string message)
-                : base(message)
-            {
+        }
+        public DniInvalidoException(Exception e)
+            : this("", e)
+        {
 
-            }
+        }
+        public DniInvalidoException()
+            : this("")
+        {
+
+        }
     }
 
 }

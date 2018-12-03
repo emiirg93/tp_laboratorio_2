@@ -10,15 +10,17 @@ namespace Entidades
     /// <summary>
     /// Enumerado que permite indicar el estado del paquete.
     /// </summary>
-    public enum EEstado
-    {
-        Ingresado,
-        EnViaje,
-        Entregado
-    }
+    
 
     public class Paquete : IMostrar<Paquete>
     {
+
+        public enum EEstado
+        {
+            Ingresado,
+            EnViaje,
+            Entregado
+        }
 
         #region Atributos.
 

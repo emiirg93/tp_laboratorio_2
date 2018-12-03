@@ -2,3 +2,16 @@ C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\UnitT
 C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
 C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\Emiliano\Desktop\TrabajosPracticos\RagoYFernandez.Emiliano.2A.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\UnitTestProject1\bin\Debug\Archivos.dll
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\UnitTestProject1\bin\Debug\ClasesAbstractas.dll
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\UnitTestProject1\bin\Debug\ClasesInstanciables.dll
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\UnitTestProject1\bin\Debug\Excepciones.dll
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\UnitTestProject1\bin\Debug\Archivos.pdb
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\UnitTestProject1\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\UnitTestProject1\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\UnitTestProject1\bin\Debug\Excepciones.pdb
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Emiliano\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

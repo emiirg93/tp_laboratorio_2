@@ -33,12 +33,16 @@ namespace TestMain
                 Alumno a3 = new Alumno(3, "José", "Gutierrez", "12234456",
                 Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion,
                 Alumno.EEstadoCuenta.Becado);
+
+                Alumno a12 = new Alumno(3, "José", "Gutierrez", "12234456", Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion, Alumno.EEstadoCuenta.Becado);
                 gim += a3;
+                gim += a12;
             }
             catch (AlumnoRepetidoException e)
             {
                 Console.WriteLine(e.Message);
             }
+
             Alumno a4 = new Alumno(4, "Miguel", "Hernandez", "92264456",
             Persona.ENacionalidad.Extranjero, Universidad.EClases.Legislacion,
             Alumno.EEstadoCuenta.AlDia);
@@ -97,6 +101,7 @@ namespace TestMain
             {
                 Console.WriteLine(e.Message);
             }
+
             Console.WriteLine(gim.ToString());
 
             try
