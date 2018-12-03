@@ -192,24 +192,17 @@ namespace ClasesInstanciables
 
         private static string MostrarDatos(Universidad uni)
         {
-            StringBuilder sb = new StringBuilder();
+            StringBuilder a = new StringBuilder();
 
-            foreach (Alumno item in uni.alumnos)
+            a.AppendLine("JORNADA: \r\n");
+
+            foreach (Jornada i in uni.jornada)
             {
-                sb.AppendLine(item.ToString());
+                a.AppendLine(i.ToString());
+                a.AppendLine("<------------------------------------------------------------------->");
             }
 
-            foreach (Profesor item in uni.profesores)
-            {
-                sb.AppendLine(item.ToString());
-            }
-
-            foreach (Jornada item in uni.jornada)
-            {
-                sb.AppendLine(item.ToString());
-            }
-
-            return sb.ToString();
+            return a.ToString();
         }
 
         public override string ToString()

@@ -93,6 +93,10 @@ namespace MainCorreo
 
         private void MostrarInformacion<T>(IMostrar<T> elemento)
         {
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+
+            path += "\\Salida.txt";
+
             if (elemento != null)
             {
                 string datosElemento = elemento.MostrarDatos(elemento);
@@ -100,7 +104,7 @@ namespace MainCorreo
                 this.rtbMostrar.Text = datosElemento;
 
                 // Guardo los datos del elemento en un archivo
-                datosElemento.Guardar("Salida.txt");
+                datosElemento.Guardar(path);
             }
         }
 
@@ -109,15 +113,12 @@ namespace MainCorreo
             this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)correo);
         }
 
-        private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)correo);
-        }
-
-        private void entregadosToolStripMenuItem_Click(object sender, EventArgs e)
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
             this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
         }
+
+        
 
     }
 }

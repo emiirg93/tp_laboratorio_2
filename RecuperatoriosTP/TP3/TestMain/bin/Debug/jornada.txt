@@ -734,3 +734,356 @@ Estado De Cuenta : AlDia
 
 
 
+JORNADA:
+Clase de Laboratorio por Nombre Completo : Lopez Juan
+Nacionalidad : Argentino
+
+Legajo Numero : 1
+
+CLASES DEL DÍA:
+
+Laboratorio
+Legislacion
+
+
+ALUMNOS: 
+
+Toma Clases de : Laboratorio
+<-------------------------------------------------------------->
+
+Nombre Completo : Suarez Joaquin
+Nacionalidad : Extranjero
+
+Legajo Numero : 7
+Estado De Cuenta : AlDia
+
+
+
+
+JORNADA:
+Clase de Programacion por Nombre Completo : Lopez Juan
+Nacionalidad : Argentino
+
+Legajo Numero : 1
+
+CLASES DEL DÍA:
+
+Laboratorio
+Programacion
+
+
+ALUMNOS: 
+
+Toma Clases de : Programacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Lopez Juan
+Nacionalidad : Argentino
+
+Legajo Numero : 1
+Estado De Cuenta : Becado
+
+Toma Clases de : Programacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Gutierrez José
+Nacionalidad : Argentino
+
+Legajo Numero : 3
+Estado De Cuenta : Becado
+
+Toma Clases de : Programacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Gonzalez Carlos
+Nacionalidad : Argentino
+
+Legajo Numero : 5
+Estado De Cuenta : AlDia
+
+
+
+
+JORNADA:
+Clase de Laboratorio por Nombre Completo : Lopez Juan
+Nacionalidad : Argentino
+
+Legajo Numero : 1
+
+CLASES DEL DÍA:
+
+Laboratorio
+SPD
+
+
+ALUMNOS: 
+
+Toma Clases de : Laboratorio
+<-------------------------------------------------------------->
+
+Nombre Completo : Suarez Joaquin
+Nacionalidad : Extranjero
+
+Legajo Numero : 7
+Estado De Cuenta : AlDia
+
+
+
+
+JORNADA:
+Clase de Laboratorio por Nombre Completo : Lopez Juan
+Nacionalidad : Argentino
+
+Legajo Numero : 1
+
+CLASES DEL DÍA:
+
+Laboratorio
+Laboratorio
+
+
+ALUMNOS: 
+
+Toma Clases de : Laboratorio
+<-------------------------------------------------------------->
+
+Nombre Completo : Suarez Joaquin
+Nacionalidad : Extranjero
+
+Legajo Numero : 7
+Estado De Cuenta : AlDia
+
+
+
+
+JORNADA:
+Clase de Programacion por Nombre Completo : Lopez Juan
+Nacionalidad : Argentino
+
+Legajo Numero : 1
+
+CLASES DEL DÍA:
+
+Programacion
+SPD
+
+
+ALUMNOS: 
+
+Toma Clases de : Programacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Lopez Juan
+Nacionalidad : Argentino
+
+Legajo Numero : 1
+Estado De Cuenta : Becado
+
+Toma Clases de : Programacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Gutierrez José
+Nacionalidad : Argentino
+
+Legajo Numero : 3
+Estado De Cuenta : Becado
+
+Toma Clases de : Programacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Gonzalez Carlos
+Nacionalidad : Argentino
+
+Legajo Numero : 5
+Estado De Cuenta : AlDia
+
+
+
+
+JORNADA:
+Clase de Legislacion por Nombre Completo : Lopez Juan
+Nacionalidad : Argentino
+
+Legajo Numero : 1
+
+CLASES DEL DÍA:
+
+Legislacion
+Legislacion
+
+
+ALUMNOS: 
+
+Toma Clases de : Legislacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Hernandez Miguel
+Nacionalidad : Extranjero
+
+Legajo Numero : 4
+Estado De Cuenta : AlDia
+
+Toma Clases de : Legislacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Smith Rodrigo
+Nacionalidad : Argentino
+
+Legajo Numero : 8
+Estado De Cuenta : AlDia
+
+
+
+
+Clase de Legislacion por Nombre Completo : Lopez Juan
+Nacionalidad : Argentino
+
+Legajo Numero : 1
+
+CLASES DEL DÍA:
+
+Legislacion
+SPD
+
+
+ALUMNOS: 
+
+Toma Clases de : Legislacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Hernandez Miguel
+Nacionalidad : Extranjero
+
+Legajo Numero : 4
+Estado De Cuenta : AlDia
+
+Toma Clases de : Legislacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Smith Rodrigo
+Nacionalidad : Argentino
+
+Legajo Numero : 8
+Estado De Cuenta : AlDia
+
+
+
+
+Clase de Programacion por Nombre Completo : Lopez Juan
+Nacionalidad : Argentino
+
+Legajo Numero : 1
+
+CLASES DEL DÍA:
+
+Programacion
+SPD
+
+
+ALUMNOS: 
+
+Toma Clases de : Programacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Lopez Juan
+Nacionalidad : Argentino
+
+Legajo Numero : 1
+Estado De Cuenta : Becado
+
+Toma Clases de : Programacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Gutierrez José
+Nacionalidad : Argentino
+
+Legajo Numero : 3
+Estado De Cuenta : Becado
+
+Toma Clases de : Programacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Gonzalez Carlos
+Nacionalidad : Argentino
+
+Legajo Numero : 5
+Estado De Cuenta : AlDia
+
+
+
+
+Clase de SPD por Nombre Completo : Lopez Juan
+Nacionalidad : Argentino
+
+Legajo Numero : 1
+
+CLASES DEL DÍA:
+
+SPD
+SPD
+
+
+ALUMNOS: 
+
+
+
+
+Clase de Legislacion por Nombre Completo : Lopez Juan
+Nacionalidad : Argentino
+
+Legajo Numero : 1
+
+CLASES DEL DÍA:
+
+Legislacion
+Legislacion
+
+
+ALUMNOS: 
+
+Toma Clases de : Legislacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Hernandez Miguel
+Nacionalidad : Extranjero
+
+Legajo Numero : 4
+Estado De Cuenta : AlDia
+
+Toma Clases de : Legislacion
+<-------------------------------------------------------------->
+
+Nombre Completo : Smith Rodrigo
+Nacionalidad : Argentino
+
+Legajo Numero : 8
+Estado De Cuenta : AlDia
+
+
+
+
+Clase de Laboratorio por Nombre Completo : Lopez Juan
+Nacionalidad : Argentino
+
+Legajo Numero : 1
+
+CLASES DEL DÍA:
+
+SPD
+Laboratorio
+
+
+ALUMNOS: 
+
+Toma Clases de : Laboratorio
+<-------------------------------------------------------------->
+
+Nombre Completo : Suarez Joaquin
+Nacionalidad : Extranjero
+
+Legajo Numero : 7
+Estado De Cuenta : AlDia
+
+
+
+
